@@ -1,0 +1,41 @@
+.date:hover{
+    color: darkcyan;
+}
+.i:hover{
+    color: darkolivegreen;
+    cursor: pointer;
+}
+.b:hover{
+    cursor: pointer;
+}
+.b:active{
+    color: teal;
+    text-decoration:underline;
+}
+.i40{
+    text-decoration: line-through;
+}
+.b40:hover{
+    color: rgb(61, 88, 34);
+    cursor:cell;
+}
+.a{
+  color: black;
+  text-decoration: none;  
+}
+.a:hover{
+    color: cadetblue;
+    text-decoration: overline cadetblue ;
+}
+.a:active{
+    color: rgb(33, 103, 107);
+    text-decoration: underline rgb(33, 103, 107);
+}
+.h2:hover{
+color: seagreen;
+cursor:progress;
+}
+.hehehe:hover{
+    cursor: pointer;
+    color: darkcyan;
+}
